@@ -6,7 +6,7 @@ I made this project for a homework
 
 Habilidades: SASS / HTML / CSS
 
-- 🔭 Estoy trabajando en this page. 
+- 🔭 Am working in this page. 
 
 
 
